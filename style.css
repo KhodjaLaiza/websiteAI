@@ -1,0 +1,126 @@
+header{
+    background-color: rgb(4, 8, 34);
+}
+body {
+    font-family: Arial, sans-serif ;
+    margin: 20px ;
+    background-color: #000000 ;
+    color: antiquewhite ;
+}
+
+h1 {
+    text-align: center ;
+    color: #ca9cda ;
+}
+
+#violet {
+    color: #ca9cda ;
+    text-align: center ;
+}
+
+#titre {
+    color: aqua ;
+    text-align: center ;
+}
+
+h2 {
+    text-align: center ;
+    color: #FA99C5 ;
+}
+
+h3 {
+    text-align: center ;
+    color: #FA99C5 ;
+}
+
+p {
+    color: #abbceb ;
+    font-family:monospace ;
+    font-size: 18px ;
+}
+
+footer {
+    text-align: center ;
+    margin-top: 40px ;
+    padding: 10px ;
+    background-color: rgb(4, 8, 34) ;
+    color: antiquewhite ;
+    font-size: 14px ;
+}
+
+p.vert {
+    color: aqua ;
+    font-family:monospace ;
+    font-size: 18px ;
+}
+
+ol {
+    color: #ca9cda;
+    font-family:monospace ;
+    font-size: 18px ;
+}
+
+ul {
+    color:#ca9cda ;
+    font-family:monospace ;
+    font-size: 18px ;
+}
+
+table {
+    border-collapse: collapse ;
+    margin: 20px auto ;
+    font-family: monospace ;
+    font-size: 18px ;
+}
+
+th, td {
+    border: 1px solid black ;
+    padding: 10px ;
+    text-align: center ;
+    color: #8A509E ;
+}
+
+th {
+    background-color: #e6d8f0 ;
+    font-weight: bold ;
+}
+
+td {
+    background-color: antiquewhite ;
+}
+
+nav ul {
+    list-style: none ;
+    padding: 0 ;
+    margin: 0 ;
+    text-align: center ;
+}
+
+nav li {
+    display: inline-block ;
+    margin-right: 20px ;
+}
+
+nav a {
+    text-decoration: none ;
+    color: antiquewhite ;
+    font-weight: bold ;
+    background-color: rgb(4, 8, 34);
+    padding: 10px 15px ;
+    border-radius: 5px ;
+}
+
+nav a:hover {
+    text-decoration: underline ;
+}
+
+figure img {
+    display: block ;
+    margin: 20px auto ;
+}
+
+figure figcaption {
+    text-align: center ;
+    font-style: italic ;
+    color: antiquewhite ;
+}
